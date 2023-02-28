@@ -4,7 +4,7 @@ import './App.css';
 function App() {
   return (
     <div>
-      <h1 className="bg-green-600 text-white border-4 border-blue-400">
+      <h1 className="bg-green-600 text-white border-4 border-blue-400 mb-1">
         Hello world!
     </h1>
       <h1 className="text-mygreen">
